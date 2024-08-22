@@ -59,7 +59,7 @@ spec:
       action: fetch:plain
       input:
         targetPath: .
-        url: https://github.com/utherp0/testscaffold
+        url: https://github.com/Dhananjaiah/testscaffold
 
     - id: publish
       name: Publish
